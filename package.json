@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-dust-exec",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Dust.js (Linkedin) helpers that works with [Sails JS](http://sailsjs.org) to be able execute functions in view",
   "main": "index.js",
   "scripts": {
