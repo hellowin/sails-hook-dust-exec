@@ -32,8 +32,6 @@ module.exports = function (sails) {
 
         //define helpers
         dust.helpers.exec = require('./helpers/exec')(sails);
-        dust.helpers.i18n = require('./helpers/i18n')(sails);
-        dust.helpers.__   = dust.helpers.i18n;
 
         return cb();
       });
