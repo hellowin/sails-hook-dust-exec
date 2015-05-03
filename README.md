@@ -12,7 +12,7 @@ Dust.js (Linkedin) helpers that works with [Sails JS](http://sailsjs.org) to be 
 *requires at least sails >= 0.11*
 
 1. Put function in `func` argument, example: `{@exec func="function" /}`
-2. Put arguments in `args` parameter if needed, example: `{@i18n func="function" args="['param1','param2']" /}`
+2. Put arguments in `args` parameter if needed, example: `{@exec func="function" args="['param1','param2']" /}`
 
 ### References and Credits
 1. [Stackoverflow](http://stackoverflow.com/questions/24368464/call-function-from-dust-template) and that contributed users
