@@ -1,7 +1,7 @@
 {
-  "name": "sails-hook-dust-i18n",
-  "version": "0.0.6",
-  "description": "Dust.js (Linkedin) helpers that works with Sails default i18n hook",
+  "name": "sails-hook-dust-exec",
+  "version": "0.0.0",
+  "description": "Dust.js (Linkedin) helpers that works with [Sails JS](http://sailsjs.org) to be able execute functions in view",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,10 +12,8 @@
     "hook",
     "dust",
     "dust.js",
-    "i18n",
-    "internationalization",
-    "multi",
-    "language"
+    "execute",
+    "function"
   ],
   "author": "Andi N. Dirgantara",
   "license": "MIT",
@@ -24,10 +22,10 @@
   },
   "repository" : {
     "type" : "git",
-	"url" : "https://github.com/hellowin/sails-hook-dust-i18n"
+	"url" : "https://github.com/hellowin/sails-hook-dust-exec"
   },
   "bugs": {
-    "url" : "https://github.com/hellowin/sails-hook-dust-i18n/issues",
+    "url" : "https://github.com/hellowin/sails-hook-dust-exec/issues",
 	"email" : "andi.n.dirgantara@gmail.com"
   },
   "sails": {
